@@ -1,5 +1,10 @@
 .Main-Title {
 color: red;
 text-align: center;
+font-family: Orbitron;
 }
 
+.Centered {
+    text-align: center;
+
+}
