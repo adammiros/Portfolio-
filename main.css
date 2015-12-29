@@ -8,3 +8,10 @@ font-family: Orbitron;
     text-align: center;
 
 }
+
+.profile-picture > img {
+    margin: auto;
+    display: block;
+    width: 20%;
+    border-radius: 50%;
+}
