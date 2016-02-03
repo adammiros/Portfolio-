@@ -6,7 +6,6 @@ font-family: Orbitron;
 
 .Centered {
     text-align: center;
-
 }
 
 .profile-picture > img {
@@ -16,9 +15,14 @@ font-family: Orbitron;
     border-radius: 50%;
 }
 
-.Top-Section {
+.Top-Part {
     border-bottom: 1px solid gray;
     background-color: #b2b2b2;
+    margin-bottom: 100px;
+}
 
-    
+
+
+.Disqus {
+   margin-top: 5000px; 
 }
