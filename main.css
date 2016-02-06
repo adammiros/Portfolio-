@@ -22,7 +22,7 @@ font-family: Orbitron;
 }
 
 .Bottom-Part {
-    margin-top: 50px;
+    margin-top: 200px;
     border-top: 2px dashed black;
     
     
@@ -63,3 +63,36 @@ font-family: Orbitron;
     background-color: #1e90ff;
 }
 
+
+.Skills-Section {
+    float: left;
+    width: 300px;
+    height: 200px;
+    background-color: red;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Hobbies-Section {
+    float: right;
+    width: 300px;
+    height: 200px;
+    background-color: green;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Skills-Section > h1 {
+    font-family: Orbitron;
+    text-align: center;
+}
+
+.Hobbies-Section > h1 {
+    font-family: Orbitron;
+    text-align: center;
+ 
+}
